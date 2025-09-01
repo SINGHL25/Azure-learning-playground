@@ -1,1 +1,6 @@
+Tool,Status,Time,Details
+VM Manager,Pass,5s,Sample VM created
+VNet Manager,Pass,3s,Sample VNet created
+Storage,Pass,2s,Blob uploaded
+LoadBalancer,Pass,4s,LB configured
 
