@@ -1,1 +1,12 @@
 
+.venv/
+pycache/
+.pyc
+.log
+.sqlite
+.env
+.ipynb_checkpoints/
+results/logs/
+results/screenshots/
+results/plots/
+.terraform/
