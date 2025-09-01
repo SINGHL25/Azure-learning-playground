@@ -22,7 +22,8 @@ Hands-on learning repo to practice Azure from beginner → advanced:
    cd azure-learning-playground
 
 
-## azure-learning-playground
+'''
+azure-learning-playground/
 │── README.md                     # Overview, objectives, setup instructions
 │── requirements.txt              # Streamlit, matplotlib, Azure SDK, etc.
 │── .gitignore                    # Ignore venv, logs, cache, temp files
@@ -95,5 +96,4 @@ Hands-on learning repo to practice Azure from beginner → advanced:
          ├── resource_flow.png
          └── monitoring_metrics.png
 
-
-
+'''
